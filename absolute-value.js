@@ -1,10 +1,10 @@
-const num = -8
+const numb = -8
 let absolute;
 // your code goes here
 if (num < 0){
-    absolute = -1*num
+    absolute = -1*numb
 }
 else{
-    absolute = num
+    absolute = numb
 }
 console.log(absolute)
